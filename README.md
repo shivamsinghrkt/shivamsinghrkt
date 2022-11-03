@@ -1,4 +1,4 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif](https://2.bp.blogspot.com/-opHrwH8r3F8/V3Y6NtKHBBI/AAAAAAAAPaQ/aH5Y5lNpEP0jJHdWQA8R9uW4rC7TVDsiACLcB/s1600/Drawing%2BCanvas%2BSample%2B%2528Whois%2BSpider%2BAnimation%2529.gif))](https://shivamsinghrkt.github.io)
+[![MasterHead](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1024x576.jpg)](https://shivamsinghrkt.github.io)
 <h1 align="center">Hi 👋, I'm Shivam Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/qJ5evVs-_uUAAAAC/coding.gif">
@@ -33,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamsinghrkt&show_icons=true&locale=en" alt="shivamsinghrkt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shivamsinghrkt&" alt="shivamsinghrkt" /></p>
-
