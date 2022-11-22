@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivamsinghrkt98@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yf57aE32hoaKD7zaSg1BmXLuJn7hAG1A/view?usp=sharing](https://drive.google.com/file/d/1yf57aE32hoaKD7zaSg1BmXLuJn7hAG1A/view?usp=sharing)
+- 📄 Know about my experiences ([https://drive.google.com/file/d/1yf57aE32hoaKD7zaSg1BmXLuJn7hAG1A/view?usp=sharing](https://drive.google.com/file/d/1v8UZqENwkepTwgW7wxM134nYbN7gLlsN/view))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
