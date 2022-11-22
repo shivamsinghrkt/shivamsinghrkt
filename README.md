@@ -20,7 +20,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/@shivamsinghrkt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@shivamsinghrkt" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/shivam singh](https://www.linkedin.com/in/shivam-singh-a40226183/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam singh" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shivam-singh-a40226183/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivam singh" height="30" width="40" /></a>
 <a href="https://codesandbox.com/shivam kumar singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="shivam kumar singh" height="30" width="40" /></a>
 <a href="https://instagram.com/shivamsingh4741" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shivamsingh4741" height="30" width="40" /></a>
 </p>
